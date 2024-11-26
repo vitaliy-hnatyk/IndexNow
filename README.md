@@ -1,0 +1,2 @@
+# IndexNow
+IndexNow
