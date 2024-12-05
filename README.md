@@ -1,7 +1,7 @@
 # IndexNow
 IndexNow
 
-
+```
 POST /indexnow HTTP/1.1
 Content-Type: application/json; charset=utf-8
 Host: <searchengine>
@@ -14,3 +14,4 @@ Host: <searchengine>
       "https://www.example.com/url3"
       ]
 }
+```
